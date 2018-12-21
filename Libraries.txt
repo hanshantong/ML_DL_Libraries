@@ -1,1 +1,2 @@
 1.PyBrain
+2.OpenStack知名博主：、何明桂、孔令贤，Cloudman
